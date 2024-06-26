@@ -1,0 +1,8 @@
+fileignoreconfig:
+- filename: components/posts.js
+  checksum: d90030291d2b8d8c875ac6b8c69e5de06c003c515d2a4ba3d7d52803a2452fb8
+- filename: lib/posts.js
+  checksum: 8baa3f619e97a7789c0c236777ecb6f85239c2664d3ac64c790dfb2c6b2d0d4b
+- filename: package-lock.json
+  checksum: 82b0d97c3e275fde21bb2faedbb91a259150a9db07e82fb666c5b7053f825064
+version: "1.0"
